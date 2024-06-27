@@ -109,9 +109,9 @@ Explore these avenues for further enhancement:
 
 [The System Demo] (https://github.com/Mutiu123/movie-recommender-system/blob/main/demo_image/demo.png)
 
-[The System Demo](https://github.com/Mutiu123/movie-recommender-system/blob/main/demo_image/demo.png)
+![The System Demo](https://github.com/Mutiu123/movie-recommender-system/blob/main/demo_image/demo.png)
 
-[The System Demo](https://github.com/Mutiu123/movie-recommender-system/blob/main/demo_image/demo2.png)
+![The System Demo](https://github.com/Mutiu123/movie-recommender-system/blob/main/demo_image/demo2.png)
 
 
 ## **To run the model**
