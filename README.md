@@ -106,8 +106,8 @@ Explore these avenues for further enhancement:
 
 5. **User Feedback Integration**:
    - Continuously refine recommendations based on user feedback.
-Certainly! Let's add instructions on how to run your movie recommendation system using the provided code. Below are the steps to get your system up and running:
 
+## **To run the model**
 1. **Clone the Repository**:
    - First, clone the repository containing your movie recommendation system code to your local machine. You can do this using Git or by downloading the ZIP file from the repository.
 
