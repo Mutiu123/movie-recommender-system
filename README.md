@@ -108,7 +108,9 @@ Explore these avenues for further enhancement:
    - Continuously refine recommendations based on user feedback.
 
 [The System Demo] (https://github.com/Mutiu123/movie-recommender-system/blob/main/demo_image/demo.png)
+
 [The System Demo](https://github.com/Mutiu123/movie-recommender-system/blob/main/demo_image/demo.png)
+
 [The System Demo](https://github.com/Mutiu123/movie-recommender-system/blob/main/demo_image/demo2.png)
 
 
