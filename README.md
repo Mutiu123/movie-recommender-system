@@ -107,6 +107,9 @@ Explore these avenues for further enhancement:
 5. **User Feedback Integration**:
    - Continuously refine recommendations based on user feedback.
 
+![Demo text](https://github.com/Mutiu123/movie-recommender-system/blob/main/demo_image/demo.png)
+
+
 ## **To run the model**
 1. **Clone the Repository**:
    - First, clone the repository containing your movie recommendation system code to your local machine. You can do this using Git or by downloading the ZIP file from the repository.
